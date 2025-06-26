@@ -6,7 +6,6 @@ import pandas as pd
 from sklearn.naive_bayes import GaussianNB
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.metrics import classification_report, confusion_matrix
-
 # Load dataset from CSV
 column_names = ["sepal_length", "sepal_width", "petal_length", "petal_width", "species"]
 iris = pd.read_csv("../data/iris.csv", header=None, names=column_names)

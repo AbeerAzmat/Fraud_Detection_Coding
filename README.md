@@ -11,7 +11,7 @@ This repository contains projects and analyses related to data mining using Pyth
 ## Repository Structure
 
 
-data-mining-with-python/
+fraud-detection-with-python/
 
  data/
  

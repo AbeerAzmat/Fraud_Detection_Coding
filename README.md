@@ -14,6 +14,7 @@ This repository contains projects and analyses related to data mining using Pyth
 data-mining-with-python/
 
  data/
+ 
   iris.csv
   
   new_data.csv

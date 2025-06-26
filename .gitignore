@@ -1,1 +1,35 @@
-echo "data/new_data.csv" >> .gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environments
+env/
+venv/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Data files (optional - if you want to ignore large datasets)
+# data/*.csv
+# data/*.gml
+
+# Python virtual environment folders (if any)
+env/
+venv/

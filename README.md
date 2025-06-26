@@ -1,5 +1,5 @@
 
-# Data Mining with Python
+# Fraud Detection with Python
 
 This work is a combination of my efforts along with my team members.  
 This repository contains projects and analyses related to data mining using Python, including:

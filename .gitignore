@@ -1,0 +1,1 @@
+echo "data/new_data.csv" >> .gitignore

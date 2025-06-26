@@ -12,23 +12,39 @@ This repository contains projects and analyses related to data mining using Pyth
 
 
 data-mining-with-python/
-├── data/
-│ ├── iris.csv
-│ ├── new_data.csv
-│ └── lesmiserables.gml
-├── notebooks/
-│ ├── iris_classification_clustering.ipynb
-│ └── fraud_detection_analysis.ipynb
-├── src/
-│ ├── classification.py
-│ ├── clustering.py
-│ ├── regression.py
-│ ├── correlation.py
-│ ├── pca_analysis.py
-│ └── network_mining.py
-├── README.md
-├── requirements.txt
-└── .gitignore
+
+ data/
+  iris.csv
+  
+  new_data.csv
+  
+  lesmiserables.gml
+  
+ notebooks/
+ 
+  iris_classification_clustering.ipynb
+  
+  fraud_detection_analysis.ipynb
+  
+src/
+
+  classification.py
+
+  clustering.py
+
+  regression.py
+  
+  correlation.py
+  
+  pca_analysis.py
+  
+  network_mining.py
+  
+README.md
+
+requirements.txt
+
+.gitignore
 
 
 ## Dataset
